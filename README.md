@@ -19,6 +19,7 @@ So, for example, if you have the file saved in a directory called
 You can enter into the terminal
 
 cd /usr/scripts/csc299
+
 sudo bash ./install_csc299.sh
 
 And it should run the script.
